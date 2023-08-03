@@ -1,0 +1,15 @@
+C:\Cursos\C Sharp\Cronometro\bin\Debug\net7.0\Cronometro.exe
+C:\Cursos\C Sharp\Cronometro\bin\Debug\net7.0\Cronometro.deps.json
+C:\Cursos\C Sharp\Cronometro\bin\Debug\net7.0\Cronometro.runtimeconfig.json
+C:\Cursos\C Sharp\Cronometro\bin\Debug\net7.0\Cronometro.dll
+C:\Cursos\C Sharp\Cronometro\bin\Debug\net7.0\Cronometro.pdb
+C:\Cursos\C Sharp\Cronometro\obj\Debug\net7.0\Cronometro.csproj.AssemblyReference.cache
+C:\Cursos\C Sharp\Cronometro\obj\Debug\net7.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C Sharp\Cronometro\obj\Debug\net7.0\Cronometro.AssemblyInfoInputs.cache
+C:\Cursos\C Sharp\Cronometro\obj\Debug\net7.0\Cronometro.AssemblyInfo.cs
+C:\Cursos\C Sharp\Cronometro\obj\Debug\net7.0\Cronometro.csproj.CoreCompileInputs.cache
+C:\Cursos\C Sharp\Cronometro\obj\Debug\net7.0\Cronometro.dll
+C:\Cursos\C Sharp\Cronometro\obj\Debug\net7.0\refint\Cronometro.dll
+C:\Cursos\C Sharp\Cronometro\obj\Debug\net7.0\Cronometro.pdb
+C:\Cursos\C Sharp\Cronometro\obj\Debug\net7.0\Cronometro.genruntimeconfig.cache
+C:\Cursos\C Sharp\Cronometro\obj\Debug\net7.0\ref\Cronometro.dll
