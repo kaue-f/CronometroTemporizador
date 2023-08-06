@@ -15,7 +15,7 @@ namespace CronometroTemporizador
             string data = Console.ReadLine().ToLower();
 
             if (data == "0")
-                data = "0s";
+                data = "00";
 
             char type = char.Parse(data.Substring(data.Length - 1, 1)); //Pegar o ultimo digito
             int time = int.Parse(data.Substring(0, data.Length - 1)); //Pegar os digito do time

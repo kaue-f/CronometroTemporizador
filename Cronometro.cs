@@ -15,7 +15,7 @@ namespace CronometroTemporizador
             string data = Console.ReadLine().ToLower();
 
             if (data == "0")
-                data = "0s";
+                data = "00";
 
             char type = char.Parse(data.Substring(data.Length - 1, 1)); //Pegar o ultimo digito
             int time = int.Parse(data.Substring(0, data.Length - 1)); //Pegar os digito do time
@@ -29,7 +29,6 @@ namespace CronometroTemporizador
                 case 'h': multiplicador = 3600; PreStart(time * multiplicador); break;
                 default: Program.Menu(); break;
             }
-
         }
         static void PreStart(int time)
         {
@@ -63,6 +62,4 @@ namespace CronometroTemporizador
             Program.Menu();
         }
     }
-
-
 }
