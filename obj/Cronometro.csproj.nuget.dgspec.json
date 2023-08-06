@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cursos\\C Sharp\\Cronometro\\Cronometro.csproj": {}
+    "C:\\Programação\\C Sharp\\CronometroTemporizador\\Cronometro.csproj": {}
   },
   "projects": {
-    "C:\\Cursos\\C Sharp\\Cronometro\\Cronometro.csproj": {
+    "C:\\Programação\\C Sharp\\CronometroTemporizador\\Cronometro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cursos\\C Sharp\\Cronometro\\Cronometro.csproj",
+        "projectUniqueName": "C:\\Programação\\C Sharp\\CronometroTemporizador\\Cronometro.csproj",
         "projectName": "Cronometro",
-        "projectPath": "C:\\Cursos\\C Sharp\\Cronometro\\Cronometro.csproj",
-        "packagesPath": "C:\\Users\\kauee\\.nuget\\packages\\",
-        "outputPath": "C:\\Cursos\\C Sharp\\Cronometro\\obj\\",
+        "projectPath": "C:\\Programação\\C Sharp\\CronometroTemporizador\\Cronometro.csproj",
+        "packagesPath": "C:\\Users\\kaue_\\.nuget\\packages\\",
+        "outputPath": "C:\\Programação\\C Sharp\\CronometroTemporizador\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kauee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kaue_\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZSC02Av0DOg7Y1qy+FXKcK4VY4ODmXwnIxJsqKopEkPDCx1Sff6YIBsWk3g3w+TKRZ9cs0L+GBrs1qAlxqpNlw==",
+  "dgSpecHash": "6ONy1/yWwyq6aCkfJCtlGpo48mkTPx+/0kOBjWy2kHmEIra+tsnmU3Tm87Q4vwJMzRVsFYfBwcA2Ssa/8yTmfg==",
   "success": true,
-  "projectFilePath": "C:\\Cursos\\C Sharp\\Cronometro\\Cronometro.csproj",
+  "projectFilePath": "C:\\Programação\\C Sharp\\CronometroTemporizador\\Cronometro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
